@@ -3,6 +3,8 @@ ____
 
 _По завершению курса учебная платформа SkillBox предоставила техническое задание по которому необходимо было сверстать макет "Blanchard"._
 
+DEMO: [Blanchard]([https://gabberex.github.io/react-shop/](https://gabberex.ru/portfolio/blanchard/))
+
 ____
 
 ## Технические требования:
